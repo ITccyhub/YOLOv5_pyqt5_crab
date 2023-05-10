@@ -1,0 +1,12 @@
+5,1,male,524,C
+6,1,Female,524,A
+5,1,male,524,B
+5,1,male,524,C
+5,1,Female,362,D
+5,1,Female,254,D
+5,1,Female,496,D
+5,1,Female,600,C
+5,1,Female,421,D
+5,1,Female,231,D
+5,1,Female,531,C
+5,1,Female,597,C
